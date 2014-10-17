@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[pnu:home|Door43 (pnu)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pnu|d43-pnu repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pnu/archive/master.zip|d43-pnu.zip]]
+
+**Recent Changes**
+{{changes>ns = pnu}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/pnu|Ethnologue data]]
+
